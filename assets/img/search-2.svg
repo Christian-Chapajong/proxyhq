@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="572.01" height="572.01" viewBox="0 0 572.01 572.01">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#915aa3"/>
+      <stop offset="1" stop-color="#b93974"/>
+    </linearGradient>
+    <filter id="Path_102906" x="0" y="0" width="572.01" height="572.01" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#915aa3" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1.633" x2="0.5" y2="0.654" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd83fa"/>
+      <stop offset="1" stop-color="#f5e5fa"/>
+    </linearGradient>
+  </defs>
+  <g id="search-2" transform="translate(20 20)">
+    <g id="Group_48136" data-name="Group 48136">
+      <g id="Group_48135" data-name="Group 48135">
+        <g transform="matrix(1, 0, 0, 1, -20, -20)" filter="url(#Path_102906)">
+          <path id="Path_102906-2" data-name="Path 102906" d="M343.016,321.8A194.153,194.153,0,0,0,390,195C390,87.477,302.523,0,195,0S0,87.477,0,195,87.477,390,195,390a194.148,194.148,0,0,0,126.8-46.983L347,341Zm155.8,113.382L403.731,340.1a15,15,0,0,0-21.213,0l-10.6,10.6L355,351l-4.3,20.914-10.6,10.6a15,15,0,0,0,0,21.213l95.089,95.09a45,45,0,1,0,63.634-63.635Z" transform="translate(20 20)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_48138" data-name="Group 48138">
+      <g id="Group_48137" data-name="Group 48137">
+        <path id="Path_102907" data-name="Path 102907" d="M285,240H270V135a15,15,0,0,0-30,0V240H210V165a15,15,0,0,0-30,0v75H150V195a15,15,0,0,0-30,0v45H105a15,15,0,0,0,0,30H285a15,15,0,0,0,0-30Zm58.016,81.8A196.793,196.793,0,0,1,321.8,343.017l28.9,28.9L371.914,350.7Z" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

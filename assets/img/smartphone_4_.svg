@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="380" height="572" viewBox="0 0 380 572">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#915aa3"/>
+      <stop offset="1" stop-color="#b93974"/>
+    </linearGradient>
+    <filter id="Path_102902" x="0" y="0" width="375" height="572" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#915aa3" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1.633" x2="0.5" y2="0.654" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dd83fa"/>
+      <stop offset="1" stop-color="#f5e5fa"/>
+    </linearGradient>
+  </defs>
+  <g id="_Smartphone_4_" transform="translate(-56 20)">
+    <g id="Group_48128" data-name="Group 48128">
+      <g id="Group_48127" data-name="Group 48127">
+        <g transform="matrix(1, 0, 0, 1, 56, -20)" filter="url(#Path_102902)">
+          <path id="Path_102902-2" data-name="Path 102902" d="M331,166a60.016,60.016,0,0,0-30,8,60.055,60.055,0,0,0-90,52c0,44.971,58.682,77.9,77.4,87.246,9.105,3.956,17.225,3.476,25.9-.322C332.318,303.9,391,270.971,391,226A60.078,60.078,0,0,0,331,166Zm0,165H196V151H331a14.991,14.991,0,0,0,15-15V45A45.05,45.05,0,0,0,301,0H121A45.05,45.05,0,0,0,76,45V467a45.05,45.05,0,0,0,45,45H301a45.05,45.05,0,0,0,45-45V346A14.991,14.991,0,0,0,331,331Z" transform="translate(-56 20)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_48130" data-name="Group 48130">
+      <g id="Group_48129" data-name="Group 48129">
+        <path id="Path_102903" data-name="Path 102903" d="M181,90h60a15,15,0,0,0,0-30H181a15,15,0,0,0,0,30Zm30,332a15,15,0,1,0,15,15A15,15,0,0,0,211,422ZM421,121H181a14.853,14.853,0,0,0-15,15V346a14.854,14.854,0,0,0,15,15H421a14.854,14.854,0,0,0,15-15V136A14.853,14.853,0,0,0,421,121ZM307.6,299.5a15.238,15.238,0,0,1-13.2,0C283,293.8,226,263.5,226,226a45.048,45.048,0,0,1,75-33.6A45.048,45.048,0,0,1,376,226C376,263.5,319,293.8,307.6,299.5Z" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
